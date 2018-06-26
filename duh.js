@@ -1,1 +1,3 @@
-$("button:not('.duh-ignore')").button();
+$(function() {
+	$("button:not('.duh-ignore')").button();
+});
